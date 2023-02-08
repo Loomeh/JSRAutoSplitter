@@ -4,7 +4,6 @@ from the Speedrun Tools Development Discord*/
 state("jetsetradio")
 {
     bool isLoading: 0x58FAAC;
-    int gameStart: 0x539701;
     bool newGame: 0x75A278;		
     bool rankingScreen: 0x58FB1C;
     int bossGraffiti: 0x55D2B8;
